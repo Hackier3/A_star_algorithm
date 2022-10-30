@@ -40,12 +40,12 @@ vector<vector<int>> generate_map(int size)
 
 			if (drawDown != 0)
 			{
-				map[i][j] = 5;
+				map[j][i] = 5;
 				drawDown--;
 			}
 			else if (rand() % (map.size() * 3) == 1)
 			{
-				map[i][j] = 5;
+				map[j][i] = 5;
 				drawDown = rand() % (map.size() / 2);
 			}
 		}
