@@ -1,0 +1,1 @@
+E:\szkolda\C++projekty\A_star_algorithm\x64\Debug\A_star_algorithm.exe
