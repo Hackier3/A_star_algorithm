@@ -1,4 +1,3 @@
 ﻿  main.cpp
 E:\szkolda\C++projekty\A_star_algorithm\main.cpp(31,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-E:\szkolda\C++projekty\A_star_algorithm\main.cpp(148,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
   A_star_algorithm.vcxproj -> E:\szkolda\C++projekty\A_star_algorithm\x64\Debug\A_star_algorithm.exe
